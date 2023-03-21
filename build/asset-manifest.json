@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/recomedia/static/css/main.55a736d8.css",
+    "main.js": "/recomedia/static/js/main.ea62a1c0.js",
+    "static/media/reading.jpg": "/recomedia/static/media/reading.4f7c96823076d6c8c7e9.jpg",
+    "index.html": "/recomedia/index.html",
+    "main.55a736d8.css.map": "/recomedia/static/css/main.55a736d8.css.map",
+    "main.ea62a1c0.js.map": "/recomedia/static/js/main.ea62a1c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55a736d8.css",
+    "static/js/main.ea62a1c0.js"
+  ]
+}
